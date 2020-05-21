@@ -1,2 +1,2 @@
 # Project-CSS-MaquetacionWebFlexibleConHTML5-CSS3-Flexbox-ResponsiveWebDesign
-## CSS - Proyecto
+## HTML, CSS, Flexbox - Proyecto
